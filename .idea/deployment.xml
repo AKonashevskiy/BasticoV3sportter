@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="sash.abaidan.com" autoUploadExternalChanges="true">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="sash.abaidan.com" uploadOnCheckin="46f708ad-8e0b-4b41-a950-545f7381ad27" autoUploadExternalChanges="true">
+    <option name="myUploadOnCheckinName" value="sash.sportter" />
     <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
   </component>
 </project>
